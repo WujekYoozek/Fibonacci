@@ -55,5 +55,5 @@ if __name__ == '__main__':
 ### Pomiary wydajności
 ![pomiar wydajności](https://cdn.discordapp.com/attachments/1015567218899161139/1333530247727022212/image.png?ex=67993a52&is=6797e8d2&hm=42df122cdad88b93c5d53e047ecb520718ca2c55d5f1e2eb76d70c82363a4698&)
 
-__Pozycja 20577 (Iteracja) - 0.005s__
+__Pozycja 20577 (Iteracja) - 0.005s__  
 __Pozycja 22 (Rekurencja) - 0.005s__
