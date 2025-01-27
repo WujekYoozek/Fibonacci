@@ -1,5 +1,6 @@
-# Co to jest ciąg Fibonacciego? 
-## Definicja
+# Ciąg Fibonacciego
+## Co to jest ciąg Fibonacciego?
+### Definicja
 Ciąg Fibonacciego to ciąg liczb naturalnych, który zaczyna się od 0 i 1, a każda kolejna liczba jest sumą dwóch poprzednich. Ciąg ten został opisany przez włoskiego matematyka Leonardo Fibonacciego w XII wieku.
 # Obliczanie danego elementu ciągu Fibonacciego metodą rekurencyjną i iteracyjną
 ## Metoda Rekurencyjna
