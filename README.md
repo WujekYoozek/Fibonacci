@@ -3,6 +3,8 @@
 Ciąg Fibonacciego to ciąg liczb naturalnych, który zaczyna się od 0 i 1, a każda kolejna liczba jest sumą dwóch poprzednich. Ciąg ten został opisany przez włoskiego matematyka Leonardo Fibonacciego w XII wieku.
 # Obliczanie danego elementu ciągu Fibonacciego metodą rekurencyjną i iteracyjną
 ## Metoda Rekurencyjna
+### Definicja
+Rekurencja (łac. recurrere – przybiec z powrotem) – technika, w której funkcja lub metoda wywołuje samą siebie w celu rozwiązania problemu.
 ### Kod
 ```python
 import time
@@ -26,6 +28,8 @@ if __name__ == '__main__':
 ![pomiar wydajności](https://cdn.discordapp.com/attachments/1015567218899161139/1333515354315558923/image.png?ex=67992c73&is=6797daf3&hm=82dd18c490e438de6a55a64dd8643568b96e980db55b6214334a6011da9e94a0&)
 
 ## Metoda Iteracyjna
+### Definicja
+Iteracja (łac. iteratio – powtarzanie) – czynność powtarzania tej samej operacji w pętli z góry określoną liczbę razy lub aż do spełnienia określonego warunku.
 ### Kod
 ```python
 import time
