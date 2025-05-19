@@ -63,23 +63,23 @@ Iteracja (łac. iteratio – powtarzanie) – czynność powtarzania tej samej o
 
 ```python
 def fibonacci(n):
-	if n <= 0:
-        	print("N musi być większe od 0")
-	elif n == 1:
-            return 0
-        elif n == 2:
-            return 1
-        a = 0
-        b = 1
-        for _ in range(2, n):
-            temp = a + b
-            a = b
-            b = temp
-        return b
+    if n <= 0:
+        print("N musi być większe od 0")
+    elif n == 1:
+        return 0
+    elif n == 2:
+        return 1
+    a = 0
+    b = 1
+    for _ in range(2, n):
+        temp = a + b
+        a = b
+        b = temp
+    return b
     
 if __name__ == "__main__":
-	n = int(input("Podaj wartość n: "))
-        print(f"{n}-ty element ciągu Fibonacciego to: {fibonacci(n)}")
+    n = int(input("Podaj wartość n: "))
+    print(f"{n}-ty element ciągu Fibonacciego to: {fibonacci(n)}")
 ```
 
 ### Metoda rekurencyjna 
@@ -105,7 +105,7 @@ if __name__ == "__main__":
 from functools import lru_cache
 
 @lru_cache(maxsize=None)      # brak limitu elementów w pamięci podręcznej
-def fibonacci(n)
+def fibonacci(n):
     if n <= 0:
         print("N musi być większe od 0")
     elif n == 1:
@@ -133,4 +133,4 @@ Iteracyjna: O(1) - stała
 
 Rekurencyjna: O(n) – liniowa
 
-Rekurencyjna: O(n) - liniowa
+Rekurencyjna (zapamiętywanie): O(n) - liniowa
