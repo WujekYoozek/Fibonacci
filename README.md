@@ -48,10 +48,6 @@ Spirala Fibonacciego oraz liczby Fibonacciego znalazły zastosowanie w różnych
 - **Fizyka**: Wzory spirali mogą być stosowane do modelowania pewnych zjawisk fizycznych, takich jak trajektorie cząsteczek w polach magnetycznych.
 - **Ekonomia**: Analitycy wykorzystują ciąg Fibonacciego w analizie rynku akcji, tworząc tzw. poziomy Fibonacciego, które służą do przewidywania poziomów wsparcia i oporu na rynkach finansowych.
 
-## Podsumowanie
-
-Spirala Fibonacciego to fascynujący matematyczny wzór, który pojawia się w przyrodzie, sztuce, architekturze i nauce. Jego obecność w różnych dziedzinach życia pokazuje, jak głęboko zakorzeniona jest matematyka w otaczającym nas świecie. Zrozumienie spirali Fibonacciego pozwala dostrzegać harmonię w naturze i sztuce, a także wykorzystywać ją w praktycznych zastosowaniach.
-
 
 ## Metody liczenia n-tego elementu ciągu Fibonacciego
 
