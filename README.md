@@ -1,8 +1,4 @@
-# Spirala Fibonacciego
-
-Spirala Fibonacciego jest jednym z najpiękniejszych i najbardziej fascynujących wzorców matematycznych, który pojawia się w naturze, sztuce, architekturze, a także w matematyce. Jest to geometria oparta na ciągu Fibonacciego, który jest ciągiem liczb, w którym każda liczba jest sumą dwóch poprzednich.
-
-## Ciąg Fibonacciego
+# Ciąg Fibonacciego
 
 Ciąg Fibonacciego zaczyna się od 0 i 1, a kolejne liczby są sumą dwóch poprzednich:
 
